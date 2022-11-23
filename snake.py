@@ -1,7 +1,6 @@
 from tkinter import *
 import random
 
-
 boardWidth = 30
 boardHeight = 30
 tilesize = 10
